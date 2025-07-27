@@ -5,19 +5,19 @@
 theme[main_bg]="#2c2421"
 
 # Main text color
-theme[main_fg]="#fff1f3"
+theme[main_fg]="#e6d9db"
 
 # Title color for boxes
-theme[title]="#fff1f3"
+theme[title]="#e6d9db"
 
 # Higlight color for keyboard shortcuts
-theme[hi_fg]="#fd6a85"
+theme[hi_fg]="#fd6883"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#3d2f2a"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#fff1f3"
+theme[selected_fg]="#e6d9db"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#72696a"
@@ -48,7 +48,7 @@ theme[temp_end]="#fd6a85"
 # CPU graph colors
 theme[cpu_start]="#adda78"
 theme[cpu_mid]="#f9cc6c"
-theme[cpu_end]="#fd6a85"
+theme[cpu_end]="#fd6883"
 
 # Mem/Disk free meter
 theme[free_start]="#5b4a45"

@@ -6,7 +6,7 @@ cyan = '#85dacc'
 green = '#adda78'
 magenta = '#a8a9eb'
 red = '#fd6883'
-white = '#fff1f3'
+white = '#e6d9db'
 yellow = '#f9cc6c'
 
 [colors.cursor]
@@ -20,13 +20,13 @@ cyan = '#85dacc'
 green = '#adda78'
 magenta = '#a8a9eb'
 red = '#fd6883'
-white = '#fff1f3'
+white = '#e6d9db'
 yellow = '#f9cc6c'
 
 [colors.primary]
 background = '#2c2525'
-foreground = '#fff1f3'
+foreground = '#e6d9db'
 
 [colors.selection]
 background = '#5b5353'
-text = '#fff1f3'
+text = '#e6d9db'
