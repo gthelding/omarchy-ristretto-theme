@@ -1,6 +1,6 @@
 return {
 	{
-		"loctvl842/monokai-pro.nvim",
+		"gthelding/monokai-pro.nvim",
 		config = function()
 			require("monokai-pro").setup({
 				filter = "ristretto",
