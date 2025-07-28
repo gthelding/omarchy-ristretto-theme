@@ -2,10 +2,10 @@
 
 [colors.normal]
 black = "#2c2525"
-red = "#fd6c85"
+red = "#fd6883"
 green = "#adda78"
 yellow = "#f9cc6c"
-blue = "#85dacc"
+blue = "#f38d70"
 magenta = "#a8a9eb"
 cyan = "#85dacc"
 white = "#e6d9db"
