@@ -2,7 +2,7 @@
 A Monokai Ristretto inspired theme for DHH's [Omarchy](https://omarchy.org), an opinioned Arch Linux setup.
 
 ## Preview
-<img width="1351" height="837" alt="preview" src="https://github.com/user-attachments/assets/70ec2972-7c68-4216-bc0d-6c11d783894d" />
+<img width="1920" height="1200" alt="screenshot" src="https://github.com/user-attachments/assets/da004c7f-e922-4a9b-868b-c296a44434ae" />
 
 ## Installation
 Install on an existing omarchy setup using `omarchy-theme-install https://github.com/gthelding/omarchy-ristretto-theme.git`
