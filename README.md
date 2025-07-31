@@ -1,4 +1,7 @@
-# Ristretto Theme for Omarchy
+# Ristretto Test Theme for Omarchy
+
+**The Ristretto theme has been installed as an Omarchy Default. This repo is for testing variations.**
+
 A Monokai Ristretto inspired theme for DHH's [Omarchy](https://omarchy.org), an opinioned Arch Linux setup.
 
 ## Preview
