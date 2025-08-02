@@ -14,6 +14,7 @@ return {
 	    MiniIconsYellow = { fg = "#f9cc6c" },
 	    MiniIconsOrange = { fg = "#f38d70" },
 	    MiniIconsPurple = { fg = "#a8a9eb" },
+	    MiniIconsAzure = { fg = "#78dce8" },
 	    MiniIconsCyan = { fg = "#85dacc" }, -- same value as MiniIconsBlue for consistency
           }
         end,
