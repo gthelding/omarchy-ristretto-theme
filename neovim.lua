@@ -1,6 +1,7 @@
 return {
 	{
 		"gthelding/monokai-pro.nvim",
+		branch = "mini-icons"
 		config = function()
 			require("monokai-pro").setup({
 				filter = "ristretto",
