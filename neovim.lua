@@ -1,6 +1,6 @@
 return {
 	{
-		"gthelding/monokai-pro.nvim",
+		{ "gthelding/monokai-pro.nvim", priority = 1000 },
 		branch = "mini-icons",
 		config = function()
 			require("monokai-pro").setup({
